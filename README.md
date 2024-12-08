@@ -4,5 +4,8 @@ Environment Setup and Testing: Download the .ipynb file and run the cells sequen
 
 #### Folder Structure:
 /\
-├── lprnet_optimization_notebook.ipynb\
-└── README.md\
+|---lprnet_optimization_notebook.ipynb \
+|---report.pdf\
+|---README.md \
+
+
